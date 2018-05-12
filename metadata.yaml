@@ -32,6 +32,8 @@ creator:
     - http://en.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand
     - http://fr.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44427#Atala
 gutenberg_issued: '2013-12-14'
 gutenberg_type: Text
 identifiers:
